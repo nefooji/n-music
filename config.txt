@@ -1,6 +1,6 @@
-owner=516473846983950336
+owner=600080803007037440
 prefix=!
-game=Break | !play
+game= N - RG-FT
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NjAyODEyNzczMjIyODQyMzY5.XTWTdg.V8VunuMfEtgzfOwN_uhPBdO0siY
