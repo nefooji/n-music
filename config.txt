@@ -1,5 +1,5 @@
 owner=600080803007037440
-prefix=!
+prefix=n
 game= N - RG-FT
 stayinchannel=true
 songinstatus=false
